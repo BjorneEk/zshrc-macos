@@ -1,8 +1,5 @@
-# zshrc file for mac-os 
+# zshrc file for mac-os
 ---
-a custom zshrc file for mac-os with a custom default and superuser prompt
+a custom .zshrc profile using oh-my-zsh and powerlevel9k.zsh-theme
 
-filepath:
-```
-/etc/zshrc
-```
+check out this [zshrc-cheat-cheet](https://github.com/BjorneEk/zshrc-cheat-sheet) for help customizing your own
